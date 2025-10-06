@@ -13,4 +13,7 @@ A simple Python calculator that can perform basic arithmetic operations includin
 ## Installation
 1. Clone this repository:
    ```bash
+   git clone
+https://github.com/username/SimpleCalculator.git
+
   
