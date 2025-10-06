@@ -14,6 +14,6 @@ A simple Python calculator that can perform basic arithmetic operations includin
 1. Clone this repository:
    ```bash
    git clone
-https://github.com/username/SimpleCalculator.git
+https://github.com/RapiLabs/SimpleCalculator.git
 
   
